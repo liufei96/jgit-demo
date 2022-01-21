@@ -10,6 +10,6 @@ public class PingController {
 
     @GetMapping
     public String ping() {
-        return "ok";
+        return "ok version2";
     }
 }
